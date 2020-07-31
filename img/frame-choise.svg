@@ -1,0 +1,13 @@
+<svg width="74" height="66" viewBox="0 0 74 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1" fill="white">
+<rect width="70" height="62" rx="2"/>
+</mask>
+<rect width="70" height="62" rx="2" fill="white" stroke="black" stroke-width="6" mask="url(#path-1-inside-1)"/>
+<rect x="8" y="23" width="11" height="26" rx="1" stroke="black" stroke-width="2"/>
+<rect x="24" y="23" width="38" height="26" rx="1" stroke="black" stroke-width="2"/>
+<path d="M5.94745 65.0479L1 61L68.5 60V0.5L72.4866 4.92954C72.8171 5.29679 73 5.77339 73 6.26747V63.5C73 64.6046 72.1046 65.5 71 65.5H7.21393C6.75224 65.5 6.30478 65.3403 5.94745 65.0479Z" fill="black" stroke="black" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48.8 6H45.2C45.0895 6 45 6.08954 45 6.2V9.8C45 9.91046 45.0895 10 45.2 10H48.8C48.9105 10 49 9.91046 49 9.8V6.2C49 6.08954 48.9105 6 48.8 6Z" fill="black"/>
+<path d="M55.8 6H52.2C52.0895 6 52 6.08954 52 6.2V9.8C52 9.91046 52.0895 10 52.2 10H55.8C55.9105 10 56 9.91046 56 9.8V6.2C56 6.08954 55.9105 6 55.8 6Z" fill="black"/>
+<path d="M62.8 6H59.2C59.0895 6 59 6.08954 59 6.2V9.8C59 9.91046 59.0895 10 59.2 10H62.8C62.9105 10 63 9.91046 63 9.8V6.2C63 6.08954 62.9105 6 62.8 6Z" fill="black"/>
+<path d="M3 14L68 14" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
