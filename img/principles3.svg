@@ -1,0 +1,33 @@
+<svg width="66" height="66" viewBox="0 0 66 66" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="8.04688" y1="31.1953" x2="53.12" y2="31.1953" stroke="black" stroke-width="2"/>
+<path d="M3 4.98632L15.3613 4.50614L16.122 4.75206L16.122 18.1464H3V4.98632Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<mask id="path-3-inside-1" fill="white">
+<rect x="0.804932" y="3.21948" width="15.122" height="15.122" rx="1"/>
+</mask>
+<rect x="0.804932" y="3.21948" width="15.122" height="15.122" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-3-inside-1)"/>
+<mask id="path-4-inside-2" fill="white">
+<rect x="2" y="24.9512" width="15.122" height="15.122" rx="1"/>
+</mask>
+<rect x="2" y="24.9512" width="15.122" height="15.122" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-4-inside-2)"/>
+<mask id="path-5-inside-3" fill="white">
+<rect x="0.804932" y="24.1464" width="15.122" height="15.122" rx="1"/>
+</mask>
+<rect x="0.804932" y="24.1464" width="15.122" height="15.122" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-5-inside-3)"/>
+<mask id="path-6-inside-4" fill="white">
+<rect x="2" y="45.8779" width="15.122" height="15.122" rx="1"/>
+</mask>
+<rect x="2" y="45.8779" width="15.122" height="15.122" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-6-inside-4)"/>
+<mask id="path-7-inside-5" fill="white">
+<rect x="0.804932" y="45.0731" width="15.122" height="15.122" rx="1"/>
+</mask>
+<rect x="0.804932" y="45.0731" width="15.122" height="15.122" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-7-inside-5)"/>
+<line x1="54.9258" y1="9.6582" x2="54.9258" y2="55.5363" stroke="black" stroke-width="2"/>
+<path d="M64 12.878L50.0976 20.9046L50.0976 4.85146L64 12.878Z" fill="black" stroke="black" stroke-width="2"/>
+<path d="M63.1952 11.2683L49.2928 19.2949L49.2928 3.24172L63.1952 11.2683Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<path d="M64 54.7317L50.0976 46.7051L50.0976 62.7583L64 54.7317Z" fill="black" stroke="black" stroke-width="2"/>
+<path d="M63.1952 53.122L49.2928 45.0954L49.2928 61.1485L63.1952 53.122Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<circle cx="56.1342" cy="34.4025" r="5.84146" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<circle cx="55.1342" cy="33.4025" r="5.84146" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<path d="M38.1707 30.6023C38.9166 30.9683 38.9166 32.0317 38.1707 32.3977L26.4406 38.1543C25.7761 38.4803 25 37.9967 25 37.2565L25 25.7435C25 25.0033 25.7761 24.5197 26.4406 24.8457L38.1707 30.6023Z" fill="black"/>
+<path d="M63.1952 53.122L49.2928 45.0954L49.2928 61.1485L63.1952 53.122Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+</svg>
