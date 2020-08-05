@@ -385,72 +385,73 @@
                             through simple APIs.</p>
 
                         <div class="schema_content d-flex">
-                            <div class="schema_content__horizontal">
-                                <div class="schema_block schema_block__whiteLittle">
-                                    <p>CLIENT</p>
-                                </div>
-                                <img src="./img/smallArrow.svg" alt="arrow">
-                                <div class="schema_block schema_block__red">
-                                    <p>API Gateway</p>
-                                    <img src="./img/bigArrow.svg" class="bigArrow" alt="arrow">
-                                </div>
-                            </div>
-
-                            <div class="schema_content__center">
-                                <h5>Microservices</h5>
-                                <div class="schema_content__items">
-                                    <div>
-                                        <img src="./img/smallArrow.svg" class="smallArrow" alt="arrow">
-                                        <div class="schema_block">
-                                            <p>Service</p>
-                                        </div>
-                                        <div class="schema_block">
-                                            <p>Service</p>
-                                        </div>
-                                        <div class="schema_block">
-                                            <p>Service</p>
-                                        </div>
-
+                            <div class="schema_content_body d-flex">
+                                <div class="schema_content__horizontal">
+                                    <div class="schema_block schema_block__whiteLittle">
+                                        <p>CLIENT</p>
                                     </div>
-                                    <div>
-                                        <div class="schema_block">
-                                            <p>Service</p>
-                                        </div>
+                                    <img src="./img/smallArrow.svg" alt="arrow">
+                                    <div class="schema_block schema_block__red">
+                                        <p>API Gateway</p>
+                                        <img src="./img/bigArrow.svg" class="bigArrow" alt="arrow">
                                     </div>
                                 </div>
 
-                                <h6>Management/Orchestration</h6>
-                            </div>
+                                <div class="schema_content__center">
+                                    <h5>Microservices</h5>
+                                    <div class="schema_content__items">
+                                        <div class="schema_content__itemsOne d-flex">
+                                            <img src="./img/smallArrow.svg" class="smallArrow" alt="arrow">
+                                            <div class="schema_block">
+                                                <p>Service</p>
+                                            </div>
+                                            <div class="schema_block">
+                                                <p>Service</p>
+                                            </div>
+                                            <div class="schema_block">
+                                                <p>Service</p>
+                                            </div>
 
-                            <div class="schema_content__vertical">
-                                <div class="schema_block schema_block__whiteLittle">
-                                    <img class="reverseArrow" src="./img/reverseArrow.svg" alt="arrow">
-                                    <h6>DevOps</h6>
-                                    <img src="./img/icon.svg" alt="icon">
+                                        </div>
+                                        <div class="schema_content__itemsTwo d-flex">
+                                            <div class="schema_block">
+                                                <p>Service</p>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <h6 class="schema_text">Management/Orchestration</h6>
                                 </div>
-                                <div class="schema_block schema_block__whiteLittle">
-                                    <img class="longArrow" src="./img/longArrow.svg" alt="arrow">
-                                    <img src="./img/icon.svg" alt="icon">
+
+                                <div class="schema_content__vertical">
+                                    <div class="schema_block schema_block__whiteLittle">
+                                        <img class="reverseArrow" src="./img/reverseArrow.svg" alt="arrow">
+                                        <h6 class="dev">DevOps</h6>
+                                        <img src="./img/icon.svg" alt="icon">
+                                    </div>
+                                    <div class="schema_block schema_block__whiteLittle">
+                                        <img class="longArrow" src="./img/longArrow.svg" alt="arrow">
+                                        <img src="./img/icon.svg" alt="icon">
+                                    </div>
                                 </div>
                             </div>
                         </div>
-
                         <h5>The key benefits of microservices are the following:</h5>
                         <div class="keys_body row">
-                            <div class="keys_item col-4 d-flex flex-column align-items-center">
+                            <div class="keys_item col-sm-4 col-12 d-flex flex-column align-items-center">
                                 <img src="./img/key1.svg">
                                 <h5 class="keys_title">Improved fault isolation</h5>
                                 <p class="keys_description">In case of error in one service the full app won’t stop
                                     performing.</p>
                             </div>
-                            <div class="col-4 d-flex flex-column align-items-center">
+                            <div class=" keys_item col-sm-4 col-12 d-flex flex-column align-items-center">
                                 <img src="./img/key2.svg">
                                 <h5 class="keys_title">Agility</h5>
                                 <p class="keys_description">Independent services means easier updates, bug fixes, and
                                     feature releases, as you
                                     don’t need to redeploy the entire app.</p>
                             </div>
-                            <div class="col-4 d-flex flex-column align-items-center">
+                            <div class="keys_item col-sm-4 col-12 d-flex flex-column align-items-center">
                                 <img src="./img/key3.svg">
                                 <h5 class="keys_title">Scalability</h5>
                                 <p class="keys_description">Scale the system whenever you want by scaling out subsystems
